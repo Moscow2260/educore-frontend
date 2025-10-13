@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/* Background with image */
+.bg-cover {
+  background: url(img2/pexels-katerina-holmes-5905443.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+/* Login Box styling */
+.login-box {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 20px;
+}
+
+/* Educore heading */
+.login-box h2 {
+  font-weight: 600;
+  color: #333;
+}
